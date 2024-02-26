@@ -1,0 +1,8 @@
+day,animals quantity,grass quantity,dead animals quantity,avg children quantity,avg life length,avg energy,free position quantity,domain genotype
+0,0,0,0,0.0,0.0,0.0,0,0
+1,16,13,0,0.0,0.0,0.0,286,0
+2,15,20,2,0.0,0.0,0.0,286,0
+3,13,28,4,0.0,0.0,0.0,287,0
+4,13,35,4,0.0,0.0,0.0,287,0
+5,2,43,15,0.0,0.0,0.0,287,0
+6,1,51,16,0.0,0.0,0.0,298,0
